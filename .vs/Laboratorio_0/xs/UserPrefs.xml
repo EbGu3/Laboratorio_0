@@ -1,4 +1,32 @@
 ﻿<Properties StartupConfiguration="{5822CE40-5245-4964-B938-3A04E2009006}|Default">
-  <MonoDevelop.Ide.ItemProperties.Laboratorio__0 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Laboratorio__0 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Laboratorio_0/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="Laboratorio_0/Modelo/Peliculas.cs" Line="9" Column="9" />
+      <File FileName="Laboratorio_0/Controllers/WeatherForecastController.cs" Line="53" Column="1" />
+      <File FileName="Laboratorio_0/Helpers/DATA.cs" Line="20" Column="12" />
+      <File FileName="Laboratorio_0/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Laboratorio_0" expanded="True">
+            <Node name="Laboratorio_0" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+              <Node name="Helpers" expanded="True" />
+              <Node name="Modelo" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
